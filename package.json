@@ -1,8 +1,12 @@
 {
   "name": "jade_partial",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Get partial HTML in nodejs backend with express and pass the data into template",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m4a1fox/jade_partial_parse"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
